@@ -1,0 +1,31 @@
+.no1{
+  border:2px solid;
+  width:300px;
+  height:520px;
+  position:absolute;
+  left:350px;
+  text-align:center;
+  
+  background-image:url("https://1.bp.blogspot.com/-H8c1CiiwVQA/XUGq_0sT7EI/AAAAAAAAKXw/XM9czezh6J0MnORp9jNjlCF73lSJj37IQCLcBGAs/s1600/67418124_10216187047488100_2481724020223901696_n.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  color:red;
+}
+}
+.sasi{
+	font-size:25px;
+	background-color:pink;
+	border:1px solid;
+}
+.sasi10{
+    top:0%;
+	right:6px;
+	transform:rotate(45deg);
+	transform:rotate(45deg);
+	position:absolute;
+	left:250px;
+	right:150px;
+}
+.sasi8 s{
+	margin-left:5px;
+}
